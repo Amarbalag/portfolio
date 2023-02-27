@@ -19,5 +19,5 @@
 
 # **🔗 Deployed Link**
 
-## _This project is deployed on Github here - [My Portfolio ]
+## _This project is deployed on Github here - [My Portfolio ] (https://amarbalag.github.io/portfolio/)_
 
