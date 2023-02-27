@@ -1,4 +1,4 @@
-# Pranita-Dane_Portfolio
+# Amar C Balaganv_Portfolio
 
 ## Project Statement/Opportunity = 
 
@@ -19,5 +19,5 @@
 
 # **🔗 Deployed Link**
 
-## _This project is deployed on Github here - [My Portfolio ](https://pranita28dane.github.io/MyPortfolio/)_
+## _This project is deployed on Github here - [My Portfolio ]
 
